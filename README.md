@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java and a few of things
 - 💞️ I’m looking to collaborate on small proyects
 - 📫 How to reach me Discord : Wiltonfen#5659
+- I can speak Spanish and a bit of English
 
 <!---
 Witonfen/Witonfen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
